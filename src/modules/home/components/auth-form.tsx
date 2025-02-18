@@ -82,6 +82,7 @@ export function AuthForm() {
       <p className="font-plus-jakarta-sans text-tertiary text-lg font-medium my-4 text-center">or</p>
 
       <button
+        type="button"
         className={cn(
           "w-full h-14 bg-white text-tertiary rounded-lg text-lg font-medium",
           "font-plus-jakarta-sans font-medium flex items-center justify-center gap-4",
