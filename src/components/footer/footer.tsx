@@ -24,7 +24,7 @@ export function Footer() {
             </div>
           </div>
 
-          <div className="grid grid-cols-2 md:grid-cols-4 gap-8 md:gap-28 text-white">
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-12 text-white">
             <div className="space-y-3 text-lg md:text-xl">
               <p>Home</p>
               <p>Features</p>
