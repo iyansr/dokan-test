@@ -4,7 +4,7 @@ import { AuthForm } from "./components/auth-form";
 export function HomePage() {
   return (
     <section
-      className="relative bg-cover bg-center bg-no-repeat"
+      className="relative bg-cover bg-center bg-no-repeat overflow-hidden"
       style={{ backgroundImage: "url('/pattern-main.svg')" }}
     >
       <div className="max-w-md mx-auto w-full py-28 px-6 relative z-10">
